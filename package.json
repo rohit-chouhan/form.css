@@ -1,0 +1,23 @@
+{      
+ "name": "form.css",                                    
+ "version": "1.1.0",                                                    
+ "description": "Open Source CSS Framework for HTML5 Form & Inputs ,Completely lite-weight, flexible and easy.",                             
+ "main": "form.css",                                                
+ "scripts": {                                                             
+   "test": "echo \"Error: no test specified\" && exit 1"              
+ },                                                                         
+ "keywords": [                                                            
+  "css"," form"," ui"," html","stylesheet"                                                                 
+ ],                                                                         
+ "author": "Rohit Chouhan",                                             
+ "license": "MIT",                                                      
+ "repository": {                                                         
+    "type": "git",                                                     
+     "url": "git+https://github.com/rohit-chouhan/form.css.git"          
+ },                                                                         
+ "bugs": {                                                               
+    "url": "https://github.com/rohit-chouhan/form.css/issues"           
+ },                                                                        
+  "homepage": "https://github.com/rohit-chouhan/form.css#readme",      
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+  }
